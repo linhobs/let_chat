@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21735745736",
+    "project_id": "flash-chat-cfce4",
+    "storage_bucket": "flash-chat-cfce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21735745736:android:0e10b304fed8933e811dfd",
+        "android_client_info": {
+          "package_name": "co.croniontech.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21735745736-1bgfnnr5gi5iqh15r953vf3b3357phv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5Sexr9dASv-YF97KuvQaUbiWMqLqHXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21735745736-1bgfnnr5gi5iqh15r953vf3b3357phv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
